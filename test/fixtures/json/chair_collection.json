@@ -1,0 +1,22 @@
+{
+  "name": "Collection Of Crown",
+  "symbol": "",
+  "description": "NFT Crown Collection, use it in ZZ to talk2earn",
+  "image": "https://arweave.net/dOe-aIvNnfwHoSCbUoocKAFCsL1MNAfUArZvLwgfEq0",
+  "external_url": "https://www.ZZ.com",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/dOe-aIvNnfwHoSCbUoocKAFCsL1MNAfUArZvLwgfEq0",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "attributes": [
+    {
+      "trait_type": "Crown type",
+      "value": "Collection"
+    }
+  ]
+}

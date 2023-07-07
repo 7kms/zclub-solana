@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "ES2020",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    // "importHelpers": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "baseUrl": "./",
+    "outDir": "./lib",
+    "declaration": true,
+    "strict": true,
+    "allowJs": true,
+    "checkJs": false,
+    "skipLibCheck": true,
+  },
+  "include": [
+    "jest.config.js",
+    ".fatherrc.ts",
+    "*.ts",
+    "src/**/*",
+    "test/**/*",
+    "readme.md"
+  ],
+  "exclude": [
+    "node_modules",
+    "**/node_modules/*",
+    "lib/",
+    "es/",
+    "dist/",
+    "build/",
+    "docs"
+  ]
+}
